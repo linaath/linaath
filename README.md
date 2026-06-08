@@ -1,10 +1,13 @@
+# Hi, I'm Lina 👋✨
 
-# Hi, I'm Lina Athmane 👋
+> *"Consistency beats everything."*
 
 🎓 4th year Software Engineering student @ USTHB, Algiers  
-💻 Fullstack Developer | UI/UX Designer  
-🤖 Passionate about AI, LLMs & building real products  
+💻 Fullstack Developer | UI/UX Designer | Mobile Dev curious  
+🤖 Passionate about AI, LLMs & building things that actually ship  
+😄 I debug with a smile — even when I probably shouldn't  
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -29,7 +32,10 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
 
+**Currently exploring 📱**  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
+---
 
 ## 🚀 Featured Projects
 
@@ -48,24 +54,27 @@
 
 ---
 
-## 📫 Contact
+## 🌱 Right now
+
+- 📱 Diving into **Flutter & mobile development**
+- 🤖 Exploring **LLM APIs** and how to build AI-powered products
+- 🎯 Looking for an internship where I can **ship real things**, not just watch
+
+---
+## 📊 GitHub Stats
+
+![Lina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=linaath&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linaath&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=linaath&theme=tokyonight&hide_border=true)
+
+---
+## 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lina-athmane7ba3152a3)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:linathmane56@gmail.com)
 
+---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=linaath&show_icons=tru]
-<!--
-**linaath/linaath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Consistency over everything. Keep going. 🙂*
