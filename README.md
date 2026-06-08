@@ -5,7 +5,6 @@
 💻 Fullstack Developer | UI/UX Designer  
 🤖 Passionate about AI, LLMs & building real products  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -30,7 +29,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -55,7 +54,7 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:linathmane56@gmail.com)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=linaath&show_icons=tru
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=linaath&show_icons=tru]
 <!--
 **linaath/linaath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
