@@ -4,7 +4,7 @@
 
 🎓 4th year Software Engineering student @ USTHB, Algiers  
 💻 Fullstack Developer | UI/UX Designer | Mobile Dev curious  
-🤖 Passionate about AI, LLMs & building things that actually ship  
+🤖 Curious about AI, LLMs & building things that actually ship  
 😄 I debug with a smile , even when I probably shouldn't  
 
 ---
