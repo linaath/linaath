@@ -62,11 +62,6 @@
 
 ---
 ## 📊 GitHub Stats
-
-![Lina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=linaath&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linaath&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=linaath&theme=tokyonight&hide_border=true)
 
 ---
