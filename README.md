@@ -2,7 +2,7 @@
 
 > *"Consistency beats everything."*
 
-🎓 4th year Software Engineering student @ USTHB, Algiers  
+🎓 5th year Software Engineering student @ USTHB, Algiers  
 💻 Fullstack Developer | UI/UX Designer | Mobile Dev curious  
 🤖 Curious about AI, LLMs & building things that actually ship  
 😄 I debug with a smile , even when I probably shouldn't  
