@@ -4,7 +4,6 @@
 
 🎓 5th year Software Engineering student @ USTHB, Algiers  
 💻 Fullstack Developer | UI/UX Designer | Mobile Dev curious  
-🤖 Curious about AI, LLMs & building things that actually ship  
 😄 I debug with a smile , even when I probably shouldn't  
 
 ---
@@ -53,12 +52,6 @@
 > `React.js` `Vite` `Tailwind CSS` `Laravel` `Axios`
 
 ---
-
-##  Right now
-
-- 📱 Diving into **Flutter & mobile development**
-- 🤖 Exploring **LLM APIs** and how to build AI-powered products
-- 🎯 Looking for an internship where I can **ship real things**, not just watch
 
 ---
 ## 📊 GitHub Stats
