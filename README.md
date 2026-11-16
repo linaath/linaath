@@ -1,7 +1,7 @@
 # Lina Athmane
 
 Software Engineering student (5th year) at USTHB, Algiers  
-Full-stack developer focused on frontend, building clean and scalable web applications.
+Fullstack Developer | UI/UX Designer | Mobile Dev curious , building clean and scalable web applications.
 
 > *"Consistency beats everything."*
 
